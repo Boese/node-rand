@@ -33,7 +33,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-mocha-test": "^0.13.3",
     "minimist": "^1.2.5",
-    "mocha": "^8.1.1",
+    "mocha": "^8.4.0",
     "node-addon-api": "^3.0.0",
     "sinon": "^9.0.2",
     "sinon-chai": "^3.5.0",
